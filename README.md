@@ -6,4 +6,5 @@
 * 16.04.2022 - [Jupiter_Learning](https://colab.research.google.com/drive/1RY2EXw6kVKUT16VZ22Fd0YFf1_MSQlmV?usp=sharing)
 * 27.04.2022 - [If/else practice](https://colab.research.google.com/drive/1p6TxWZaL9mfnzYWIPCIQ1cPrWcZfmqMw?usp=sharing)
 * 07.05.2022 - [Loop_For](https://colab.research.google.com/drive/15kTElo5_F6VW0ltxGCFVcuHYAb8nBWDI?usp=sharing)
-* 14.05.2022 - [Loop_While](https://colab.research.google.com/drive/1IVYDA1EFGDUwGoPeNRNSFGHQ-4V8Vald?usp=sharing)
+* 12.05.2022 - [Loop_While](https://colab.research.google.com/drive/1IVYDA1EFGDUwGoPeNRNSFGHQ-4V8Vald?usp=sharing)
+* 14.05.2022 - [Loop_practice](https://colab.research.google.com/drive/1hjz2blSVEmk2jlPim1OL4bJKhZaStJYC?usp=sharing)
