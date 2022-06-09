@@ -8,3 +8,4 @@
 * 07.05.2022 - [Loop_For](https://colab.research.google.com/drive/15kTElo5_F6VW0ltxGCFVcuHYAb8nBWDI?usp=sharing)
 * 12.05.2022 - [Loop_While](https://colab.research.google.com/drive/1IVYDA1EFGDUwGoPeNRNSFGHQ-4V8Vald?usp=sharing)
 * 14.05.2022 - [Loop_practice](https://colab.research.google.com/drive/1hjz2blSVEmk2jlPim1OL4bJKhZaStJYC?usp=sharing)
+* 06.06.2022 - [Practice_List_array] (https://colab.research.google.com/drive/1OX6C0Q6OwVG44y_ltSe72KQXtD1uRJn4?usp=sharing)
