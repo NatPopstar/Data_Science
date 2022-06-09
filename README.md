@@ -10,3 +10,4 @@
 * 14.05.2022 - [Loop_practice](https://colab.research.google.com/drive/1hjz2blSVEmk2jlPim1OL4bJKhZaStJYC?usp=sharing)
 * 06.06.2022 - [Practice_List_array](https://colab.research.google.com/drive/1OX6C0Q6OwVG44y_ltSe72KQXtD1uRJn4?usp=sharing)
 * 09.06.2022 - [Stepik_if/else](https://colab.research.google.com/drive/1uT2zXSbg3wOJECCvkSTWYpvGC3WCOXEJ?usp=sharing)
+* 09.06.2022 - [Practice_List_array](https://colab.research.google.com/drive/1LzKW2dVt5yw0GYHQz1dt8b40kLj_v2R3?usp=sharing)
